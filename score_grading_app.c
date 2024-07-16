@@ -25,10 +25,11 @@ int main(){
         studentGrade = 'F';
     } else {
         printf("Invalid score\n");
-        return 1;
+        return 1; // Returns 1 to indicate that the program did not run successfully.
     }
 
+    // Displays the student grade on the console.
     printf("The grade is: %c\n", studentGrade);
 
-    return 0;
+    return 0; // Returns 0 to indicate that the program ran successfully.
 }
