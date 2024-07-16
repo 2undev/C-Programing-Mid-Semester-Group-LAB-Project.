@@ -36,12 +36,6 @@ In summary, printf("The grade is: %c\n", displayScore); prints the string "The g
 
 
 
-
-
-
-
-
-
 Follow this instruction to run your code.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 -- open your terminal and navigate to the directory folder where the code or project is located using this command like this:  cd "/path/to/your/source/code/"

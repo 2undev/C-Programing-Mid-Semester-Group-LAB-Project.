@@ -9,7 +9,7 @@ int main(){
   printf("Enter your score: "); // Prompts the user to enter a score.
 
   
-  scanf("%d", &studentScore); // Reads the score entered into the input from the user.
+  scanf("%d", &studentScore); // Reads the score entered into the input from the user and save it into the studentScore variable.
  
   
     // Checks the studentScore against the specified ranges of conditions and assigns a grade.
